@@ -1,0 +1,13 @@
+body{
+  font-size: 30px;
+  letter-spacing: 3px;
+  font-family:'Shadows Into Light', cursive;
+  line-height: 1.5;
+}
+p{
+  margin-left: 20px;
+}
+
+h1{
+  font-size: 100px;
+}
